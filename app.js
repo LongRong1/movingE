@@ -21,4 +21,4 @@ function countdown() {
     }, 40); // 1 millisecond interval
 }
 
-//countdown()
+countdown()

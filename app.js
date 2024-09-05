@@ -21,8 +21,4 @@ function countdown() {
     }, 40); // 1 millisecond interval
 }
 
-<<<<<<< HEAD
 countdown()
-=======
-countdown()
->>>>>>> a7369717c67d6d6a511b38b27a92306eb448c0f0
